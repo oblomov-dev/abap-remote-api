@@ -1,4 +1,4 @@
 # abap-business-api
-Simplified APIs for S/4 Business Logic
+Simplified APIs for Remote S/4 Calls
 
 WIP
