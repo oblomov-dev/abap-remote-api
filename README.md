@@ -2,6 +2,14 @@
 
 WIP 🚧 🔨 🏗️
 
+
+#### APIs
+* bal
+* db
+* dd04t
+* message
+* table read
+
 #### Features
 * Simplified APIs for easy, class-based usage
 * Remote calls via HTTP/RFC
